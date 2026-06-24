@@ -1,0 +1,36 @@
+DAY 1 DATA QUALITY SUMMARY
+======================================================================
+
+1. Dataset Overview
+                 dataset  rows  columns  missing_values  duplicate_rows
+          01_fund_master    40       15               0               0
+          02_nav_history 46000        3               0               0
+    03_aum_by_fund_house    90        5               0               0
+  04_monthly_sip_inflows    48        6              12               0
+     05_category_inflows   144        3               0               0
+ 06_industry_folio_count    21        6               0               0
+   07_scheme_performance    40       19               0               0
+08_investor_transactions 32778       13               0               0
+   09_portfolio_holdings   322        8               0               0
+    10_benchmark_indices  8050        3               0               0
+
+
+2. Missing Values / Anomalies
+               dataset         column  missing_count
+04_monthly_sip_inflows yoy_growth_pct             12
+
+
+3. Fund Master Exploration
+Unique fund houses: 10
+Unique categories: 2
+Unique sub-categories: 12
+Unique risk grades: 5
+
+
+4. AMFI Validation
+PASS - Every AMFI code in fund_master exists in nav_history.
+
+
+5. Live NAV API Fetch
+Live NAV fetched for 6 schemes.
+live_nav_data.csv shape: (0, 0)
