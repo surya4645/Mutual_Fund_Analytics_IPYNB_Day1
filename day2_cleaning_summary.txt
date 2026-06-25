@@ -1,0 +1,10 @@
+DAY 2 DATA CLEANING SUMMARY
+======================================================================
+clean_nav.csv: (46000, 4)
+clean_transactions.csv: (32778, 13)
+clean_performance.csv: (40, 21)
+dim_date.csv: (1150, 6)
+Invalid NAV rows removed: 0
+Invalid transaction amount rows removed: 0
+Negative Sharpe rows: 0
+Expense ratio anomaly rows: 0
