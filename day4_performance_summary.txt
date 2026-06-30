@@ -1,0 +1,7 @@
+
+Day 4 Summary
+
+• Daily returns calculated for all mutual fund schemes.
+• Computed CAGR, Sharpe Ratio, Sortino Ratio, Alpha, Beta, and Maximum Drawdown.
+• Created a fund scorecard based on performance metrics.
+• Generated a benchmark comparison chart for the top-performing funds.

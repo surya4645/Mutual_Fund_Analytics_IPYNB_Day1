@@ -1,0 +1,13 @@
+
+Day 3 EDA Summary
+
+1. NAV trend analysis shows fund-wise movement across 2022-2025.
+2. The 2023 period shows stronger NAV growth across several schemes.
+3. The 2024 period shows slower growth/correction in selected schemes.
+4. AUM analysis highlights fund house dominance and changing market share.
+5. SIP trend shows continued retail participation across months.
+6. Category inflow heatmap helps identify which fund categories attracted higher flows.
+7. Investor demographics show participation by age group and gender.
+8. Geographic analysis highlights state-wise and city-tier-wise investment contribution.
+9. Folio count trend indicates growth in mutual fund investor participation.
+10. NAV correlation matrix shows how selected schemes move together.
